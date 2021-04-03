@@ -1,6 +1,6 @@
 +++
 title = "Installing Zola - A static site generator using Rust Lang"
-date = 03/04/2021
+date =2021-04-03
 +++
 
-Installing Zola - A static site generator using Rust Lang
+Installing Zola - A static site generator using Rust Lang.
