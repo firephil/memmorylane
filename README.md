@@ -1,6 +1,6 @@
 ## Memmory Lane
 
-### A Programming Journal using [Zola](https://getzola.com) , a static site generator developed in [Rust] (https://rust-lang.org)
+### A Programming Journal using [Zola](https://getzola.com) , a static site generator developed in [Rust](https://rust-lang.org)
 
 #### No dependencies
 Zola comes as a single executable with Sass compilation, syntax highlighting, table of contents and many other features that 
