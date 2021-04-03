@@ -7,10 +7,20 @@ compile_sass = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
 
+# The default language; used in feeds.
+default_language = "en"
+
+# The site theme to use.
+theme = "zerm"
+
+# Configuration of the Markdown rendering
 [markdown]
-# Whether to do syntax highlighting
-# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+# When set to "true", all code blocks are highlighted.
 highlight_code = true
+
+# The theme to use for code highlighting.
+# See below for list of allowed values.
+highlight_theme = "base16-ocean-dark"
 
 [extra]
 # Put all your custom variables here
